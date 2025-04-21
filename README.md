@@ -13,7 +13,7 @@
 
 - 🤝 Me interesa colaborar en proyectos de desarrollo, soporte, testing y digitalización de procesos
 
-- 📫 Cómo contactarme: **facundoheredia.dev@gmail.com**
+- 📫 Cómo contactarme: **correopersonalh@gmail.com**
 
 - ⚡ Intereses: Me apasiona la informática, la resolución de problemas reales con tecnología, y el aprendizaje constante
 
@@ -22,7 +22,7 @@
 
 [![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/facu.heredia.3382/)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/faccu_here/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:facundoheredia.dev@gmail.com)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:correopersonalh@gmail.com)
 
 </div>
 
@@ -49,10 +49,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=FACU-GITHUB&theme=react&show_icons=true&include_all_commits=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FACU-GITHUB&theme=react&layout=compact" />
-</p>
+
 
 ------
 
